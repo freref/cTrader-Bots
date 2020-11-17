@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMA crossover", "EMA crossover\EMA crossover.csproj", "{CEFD624C-E151-40E5-AF9E-2E0F9E0E45F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFD624C-E151-40E5-AF9E-2E0F9E0E45F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFD624C-E151-40E5-AF9E-2E0F9E0E45F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFD624C-E151-40E5-AF9E-2E0F9E0E45F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFD624C-E151-40E5-AF9E-2E0F9E0E45F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
